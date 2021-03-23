@@ -14,6 +14,8 @@ New doployment procedure.
 
 ## How to Contribute
 
+Please fork this repository.
+
 ## Copyright
 
 New copyright notice.
