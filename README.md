@@ -14,3 +14,7 @@ New doployment procedure.
 
 ## How to Contribute
 
+## Copyright
+
+New copyright notice.
+
